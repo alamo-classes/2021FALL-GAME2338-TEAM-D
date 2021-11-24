@@ -1,6 +1,6 @@
 # Group Meeting
 
-* Date: 10/21
+* Date: 11/23
 * Time: 9pm
 * Location: Discord
 
