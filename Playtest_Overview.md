@@ -13,14 +13,14 @@ Develop a project schedule to include the following tasks at a minimum:
 | Deliverable | Start Date/End Date | Due Date | Person(s) Assigned |
 |-|-|-|-|
 | Game Selection | 10/07 - 10/12 | Week 6  | Johnathan, Martin |
-| Develop Schedule |10/12 - | Week 7  |Mykeliah| 
-| Send Status Report 1 | | Week 8  | |
-| Create Test Plan - First Draft | | Week 9  | |
-| Send Status Report 2 | | Week 11  | |
-| Create Test Cases - Draft | | Week 12  | | 
-| Execute Test Cases | | Week 13  | | 
-| Create Test Report | | Week 14  | | 
-| Everything Due | | Week 15  | | 
+| Develop Schedule | 10/14 - 10/19 | Week 7  |Mykeliah| 
+| Send Status Report 1 | 10/21 - 10/26 | Week 8  | Martin |
+| Create Test Plan - First Draft | 10/28 - 11/2 | Week 9  | Mykeliah |
+| Send Status Report 2 | 11/4 - 11/9 | Week 11  |Johnathan |
+| Create Test Cases - Draft | 11/11 - 11/16 | Week 12  | Martin | 
+| Execute Test Cases | 11/18 - 11/23 | Week 13  | Mykeliah | 
+| Create Test Report | 11/25 - 11/27 | Week 14  | Johnathan | 
+| Everything Due | 11/28 | Week 15  | Mykeliah, Johnathan, Martin | 
 
 # Part One: Game Selection
 
