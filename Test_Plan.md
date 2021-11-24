@@ -2,23 +2,25 @@
 
 ## Summary
 
-Summarize the project and the functions of the software to be tested
+This test will ensure that the game's inputs are fully functional as well as thinning out small                              visual bugs.
 
 ## Environment/User Community
 
-Identify user community and where testing will be performed
+This will be a closed beta player based community tested remotely. 
 
 ## Test Objectives
 
-State objectives to be accomplished by testing
+* Thin out bugs.
+* Optimize controls.
+* Create good flow.
 
 ## Acceptance Criteria
 
-Estimated number of defect or internal test acceptance criteria
+No more than 3 total bugs
 
 ## References
 
-* List any reference documents
+* [Poom Itch.io Page](https://freds72.itch.io/poom)
 
 # Section 2: Plan
 ## Test Description
