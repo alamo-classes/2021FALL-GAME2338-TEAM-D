@@ -10,13 +10,12 @@ This will be a closed beta player based community tested remotely.
 
 ## Test Objectives
 
-* Thin out bugs.
-* Optimize controls.
-* Create good flow.
+* Test to make sure the game is free of input errors and delays. 
+* Assure that the game is completly functional in various popular browsers.
 
 ## Acceptance Criteria
 
-No more than 3 total bugs
+Throughout development visual errors should be corrected as the arise. Errors to input, such as delays or non functionality, will me reported to coders and fixed within a says time. When the products is free of visual and input errors it rill be released to the masses and futher optimization.
 
 ## References
 
@@ -25,33 +24,41 @@ No more than 3 total bugs
 # Section 2: Plan
 ## Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
+Inputs and compatibility will be tested throughout this run. This will be tested in the Google Chrome browser as well as GX Opera and Firefox. The test enviorment will be similar to which it will be operated in. Users will need a fully functioning keyboard, mouse, and moniter for tests to be viable and accurate.
 
 ## Test Team
 
-Who is on the team and what is their role/assignment
+* Mykeliah Lewis --> Opera GX Testing
+* Johnathan Sims --> Google Chrome Testing
+* Martin Long    --> Firefox Testing
 
 ## Milestones
 
-* Testing Locations, events, test phases and dates of testing
+Locations: Home
+Events: N/A
+Phases: Functionality, Compatibility
 
 ## Budgets
 
-Funds allocated to testing by task
+No Budget
 
 ## Testing
 ### Requirements
 
-Resource requirements, equipment, software/hardware, tester with special skill set
+All testers must have a fully functioning mouse and keyboard as well as their assigned browser.
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+Tool | Function
+--------|------------
+Discord | Communication
+GitHub | Documentation
+Keyboard/Mouse | Inputs
+Monitor | Monitoring
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+No training required.
 
 # Section 3: Specifications and Evaluations
 
@@ -59,13 +66,21 @@ playtesting
 
 ### Business Rules/Functions
 
-* List any business requirements (list)
+* Internet Connection
+* Functioning Keyboard & Mouse
+* PC
 
 ### Software/Game Functions
 
-* List any software requirements (list)
+* Discord
+* Browser (Opera GX, Google Chrome, Firefox)
 
 ### Test/Function Relationships
+
+Test | Relationship
+------------ | -------------
+Start Game| Content from cell 2
+Content in the first column | Content in the second column
 
 Match individual tests or test suites to requirements (this is usually a table)
 Beginning stages of developing your test suites
