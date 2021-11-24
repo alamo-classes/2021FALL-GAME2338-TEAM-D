@@ -79,14 +79,15 @@ No training required.
 
 Test | Relationship
 ------------ | -------------
-Start Game| Content from cell 2
-Content in the first column | Content in the second column
-
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
+Start Game | UI Buttons
+Movement | Arrow Keys/SDEF
+Aim/Shoot | Arrow Keys & ZX/Mouse
+Browser Compatibility | Browser (Chrome, Firefox, Opera GX)
 
 ### Test Progression
-Describe how progression is made from one test to another
+
+1. Testers will start the game and navigate the main menue using various controls.
+2. Testers will play through the first level testing aim, firing, and bombs.
 
 ## Methods and Constraints
 
