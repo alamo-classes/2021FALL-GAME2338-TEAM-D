@@ -88,17 +88,18 @@ Browser Compatibility | Browser (Chrome, Firefox, Opera GX)
 
 1. Testers will start the game and navigate the main menue using various controls.
 2. Testers will play through the first level testing aim, firing, and bombs.
+3. Testers will complete the first level and report ant input errors.
 
 ## Methods and Constraints
 
 ### Test Methodology
 
-Describe testing strategy/types of testing or any other methodology
+Compatibilaty Testing and Usability Testing
 
 ### Extent of Testing
 
-Full or partial testing and explanation
+We will simply be testing the functionality of the controls as well as general ease of use.
 
 ### Constraints
 
-Describe any test condition constraints such as interfaces or data
+While there are multiple levels testers are limited to the first one.
