@@ -18,8 +18,8 @@ Develop a project schedule to include the following tasks at a minimum:
 | Create Test Plan - First Draft | 10/28 - 11/2 | Week 9  | Mykeliah |
 | Send Status Report 2 | 11/4 - 11/9 | Week 11  |Johnathan |
 | Create Test Cases - Draft | 11/11 - 11/16 | Week 12  | Martin | 
-| Execute Test Cases | 11/18 - 11/23 | Week 13  | Mykeliah | 
-| Create Test Report | 11/25 - 11/27 | Week 14  | Johnathan | 
+| Execute Test Cases | 11/18 - 11/23 | Week 13  | Johnathan | 
+| Create Test Report | 11/25 - 11/27 | Week 14  | Mykeliah | 
 | Everything Due | | Week 15  | Mykeliah, Johnathan, Martin | 
 
 # Part One: Game Selection
