@@ -15,7 +15,7 @@ This will be a closed beta player based community tested remotely.
 
 ## Acceptance Criteria
 
-Throughout development visual errors should be corrected as the arise. Errors to input, such as delays or non functionality, will me reported to coders and fixed within a says time. When the products is free of visual and input errors it rill be released to the masses and futher optimization.
+Throughout development visual errors should be corrected as they arise. Errors to input, such as delays or non functionality, will me reported to coders and fixed within a says time. When the products is free of visual and input errors it rill be released to the masses and futher optimization.
 
 ## References
 
