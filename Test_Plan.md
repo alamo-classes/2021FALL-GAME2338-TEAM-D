@@ -34,8 +34,8 @@ Inputs and compatibility will be tested throughout this run. This will be tested
 
 ## Milestones
 
-Locations: Home 
-Events: N/A 
+Locations: Home  
+Events: N/A  
 Phases: Functionality, Compatibility 
 
 ## Budgets
