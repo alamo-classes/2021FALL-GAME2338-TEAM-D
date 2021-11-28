@@ -35,18 +35,19 @@
 # Changes
 
 * Send Status Report 2 end date has changed from 11/9 to 11/27.
-* Execute Test Cases end date has changed from 11/18 to 11/27.
-* Execute Test Cases has beenr reassigned to Jonathan.
+* Execute Test Cases end date has changed from 11/18 to 11/28.
+* Execute Test Cases has been reassigned to Jonathan.
 * Create Test Report has been reassigned to Mykeliah.
 
 ## Additional tasks to add
 
-* None
+* Test cases still need to be executed.
 
 ## What has been completed and date of completion
 
-(Paragraph)
+The test cases were created Oct 21 and the test plan was created Nov 24.
 
 # General Notes/Overall Status
 
-Many of the tasks had to be completed at a later date than originally planned, but we have successfully completed the majority of them.
+Many of the tasks had to be completed at a later date than originally planned, but we have successfully completed the majority of them, and can finish the remainder 
+accordingly.
