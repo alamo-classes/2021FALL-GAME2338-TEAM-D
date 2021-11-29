@@ -45,7 +45,7 @@
 
 ## What has been completed and date of completion
 
-The test cases were created Oct 21 and the test plan was created Nov 24.
+The test cases have not been created yet and still need to be executed by 11/30
 
 # General Notes/Overall Status
 
