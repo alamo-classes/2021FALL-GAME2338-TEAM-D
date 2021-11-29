@@ -15,7 +15,7 @@ This will be a closed beta player based community tested remotely.
 
 ## Acceptance Criteria
 
-Throughout development visual errors should be corrected as they arise. Errors to input, such as delays or non functionality, will me reported to coders and fixed within a says time. When the products is free of visual and input errors it rill be released to the masses and futher optimization.
+Throughout development visual errors should be corrected as they arise. Errors to input, such as delays or non functionality, will be reported to coders and fixed accordingly. When the product is free of visual and input errors it will be released to the masses and be futher optimized.
 
 ## References
 
@@ -24,12 +24,13 @@ Throughout development visual errors should be corrected as they arise. Errors t
 # Section 2: Plan
 ## Test Description
 
-Inputs and compatibility will be tested throughout this run. This will be tested in the Google Chrome browser as well as GX Opera and Firefox. The test enviorment will be similar to which it will be operated in. Users will need a fully functioning keyboard, mouse, and moniter for tests to be viable and accurate.
+Inputs and compatibility will be tested throughout this run. This will be tested in the Google Chrome browser as well as GX Opera and Firefox. The test enviorment 
+will be similar to which it will be operated in. Users will need a fully functioning keyboard, mouse, and moniter for tests to be viable and accurate.
 
 ## Test Team
 
 * Mykeliah Lewis --> Opera GX Testing
-* Johnathan Sims --> Google Chrome Testing
+* Jonathan Sims --> Google Chrome Testing
 * Martin Long    --> Firefox Testing
 
 ## Milestones
