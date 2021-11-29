@@ -95,7 +95,7 @@ Browser Compatibility | Browser (Chrome, Firefox, Opera GX)
 
 ### Test Methodology
 
-Compatibilaty Testing and Usability Testing
+Compatibility Testing and Usability Testing
 
 ### Extent of Testing
 
