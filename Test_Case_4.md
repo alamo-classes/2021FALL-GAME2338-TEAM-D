@@ -26,11 +26,11 @@
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 |Menu select|Mouse cursor and movement keys dictates selection successfully|√|			
-| 2 |Navigate menus|Mouse1, V, Q and X accepts selection and Mouse2, C, Shift, Tab and Z backs out successfully|√|  
+| 2 |Navigate menus|Mouse1, V and X accepts selection and Mouse2, C, and Z backs out successfully|√|  
 | 3 |Customize controls|Mouse sensitivity can be modified and alternate controls can be used successfully|√|			
 | 4 |Choose level and difficulty|First level can be selected and all difficulties can be selected successfully|√|			
 | 5 |Utilize movement controls|E and Up moves character forward, S and Left moves character to the left, D  and Down moves character backward, and F and Right moves character to the right.|√|		
-| 6 |Utilize aim and shooting controls|Character aims according to mouse movement, Mouse1, V, Q and X fires held weapon, and Mouse2, C, Shift, Tab and Z interacts with object in center of view successfully|√|
+| 6 |Utilize aim and shooting controls|Character aims according to mouse movement, Mouse1, V and X fires held weapon, and Mouse2, C and Z interacts with object in center of view successfully|√|
 | 7 |Utilize pause menu|P, Enter and Mouse3 Open weapons wheel when pressed once and Pause menu when pressed twice successfully.|√|
 | 8 |Switch weapons|Weapons can be swapped with the pause menu and using 1, 2, 3, 4 and 5 successfully|√|
 
