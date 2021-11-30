@@ -88,7 +88,7 @@ Browser Compatibility | Browser (Chrome, Firefox, Opera GX)
 ### Test Progression
 
 1. Testers will start the game and navigate the main menu using various controls.
-2. Testers will play through the first level testing aim, firing, and bombs.
+2. Testers will play through the first level testing aim, firing, and completing objectives.
 3. Testers will complete the first level and report ant input errors.
 
 ## Methods and Constraints
