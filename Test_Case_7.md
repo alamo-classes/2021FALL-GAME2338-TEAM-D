@@ -3,9 +3,9 @@
 ## Test Details
 
 * Test Case ID:
-  * #4
+  * #7
 * Test Case Name:
-  * UI and Controls - All inputs function on Firefox
+  * Gameplay - All gameplay elements are present on Firefox
 * Component: 
   * Firefox Web Browser, POOM
 * Test Case Designer:
@@ -19,20 +19,22 @@
 * Requirements Covered:
   * POOM functionality in the Firefox Web Browser.
 * Test Description/Purpose:
-  * This test will verify if all of the inputs of the POOM application are functional within the Firefox Web Browser.
+  * This test will verify if the gameplay elements of the POOM application are functional within the Firefox Web Browser.
 * Pre-Test Conditions:
   * None
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Menu select|Mouse cursor and movement keys dictates selection successfully|√|			
-| 2 |Navigate menus|Mouse1, V and X accepts selection and Mouse2, C, and Z backs out successfully|√|  
-| 3 |Customize controls|Mouse sensitivity can be modified and alternate controls can be used successfully|√|			
-| 4 |Choose level and difficulty|First level can be selected and all difficulties can be selected successfully|√|			
-| 5 |Utilize movement controls|E and Up moves character forward, S and Left moves character to the left, D  and Down moves character backward, and F and Right moves character to the right.|√|		
-| 6 |Utilize aim and shooting controls|Character aims according to mouse movement, Mouse1, V and X fires held weapon, and Mouse2, C and Z interacts with object in center of view successfully|√|
-| 7 |Utilize pause menu|P, Enter and Mouse3 Open weapons wheel when pressed once and Pause menu when pressed twice successfully.|√|
-| 8 |Switch weapons|Weapons can be swapped with the pause menu and using 1, 2, 3, 4 and 5 successfully|√|
+| 1 |Sound check|Music and sound effects play successfully|√|			
+| 2 |Kill enemies|Enemies are killed after taking enough damage successfully|√|  
+| 3 |Pick up health sources|Healing items work properly|√|			
+| 4 |Interact with buttons and doors|Buttons and doors repond properly when interacting with them|√|			
+| 5 |Player death|The player dies when their health reaches 0|√|		
+| 6 |Ammunition management|The player can no longer shoot when out of ammunition and can refill from ammunition sources|√|
+| 7 |Locked door|The locked door only opens when the player has the key|√|
+| 8 |Secrets|All secrets can be found|√|  
+| 9 |Level complete|The level can be beaten|√|  
+|10 |Level end statistics|The statistics screen upon completing the level accurately records the player's accomplishments|√|
 
 ## Overall Test Status:
 Success
