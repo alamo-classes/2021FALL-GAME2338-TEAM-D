@@ -17,7 +17,7 @@
 * Modified Date:
   * 11/29
 * Requirements Covered:
-  * Verify compatibility with Chrome Web Browser
+  * POOM compatibility with Chrome Web Browser
 * Test Description/Purpose:
   * This test will verify if the POOM application can successfully run within the Chrome Web Browser
 * Pre-Test Conditions:
