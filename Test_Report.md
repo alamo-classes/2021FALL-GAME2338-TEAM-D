@@ -53,6 +53,4 @@ While the game is complete and runs as intended there is a few thigns that shoul
 
 ### List of Defects found or fixed
 
-| Defect ID | Description | Severity | Associated Test ID or Requirement |
-|---|---|---|---|
-| | | | |
+NO DEFECTS
