@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * #4
+  * #5
 * Test Case Name:
   * UI and Controls - All inputs function on Chrome
 * Component: 
